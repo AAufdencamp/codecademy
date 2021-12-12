@@ -1,7 +1,6 @@
 
 # ------------------------------------------------------------------------
 # This project is a Codecademy conditional statement and boolean expression 
-#
 # exercise in the Codecademy learn Python 3 module. 
 #
 # Student: Andrea Aufdencamp
