@@ -1,4 +1,13 @@
-# Your code below:
+# ------------------------------------------------------------------------
+# This is an exercise in mainpulating lists.
+#
+# This file is part of the Codeacademy learn Python project
+#
+# Student: Andrea Aufdencamp
+# Modified: 2021/12/12
+# See Readme for further details
+------------------------------------------------------------------------
+
 toppings =["pepperoni", "pineapple", "cheese", "sausage", "olives", "anchovies", "mushrooms"]
 
 prices = [2, 6, 1, 3, 2, 7, 2]
