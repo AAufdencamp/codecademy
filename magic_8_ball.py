@@ -3,7 +3,7 @@
 #
 # This file is part of the Codeacademy learn Python project
 #
-# Author: Andrea Aufdencamp
+# Student: Andrea Aufdencamp
 # Modified: 2021/12/12
 # See Readme for further details
 ------------------------------------------------------------------------
