@@ -1,3 +1,13 @@
+# ------------------------------------------------------------------------
+# A second exercise in control flow with loops.
+#
+# This file is part of the Codeacademy learn Python course.
+#
+# Student: Andrea Aufdencamp
+# Modified: 2021/12/22
+# See Readme for further details
+------------------------------------------------------------------------
+
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
 
 prices = [30, 25, 40, 20, 20, 35, 50, 35]
