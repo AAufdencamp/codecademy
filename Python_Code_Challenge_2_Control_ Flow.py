@@ -1,4 +1,13 @@
-# Python Code Challenge #2 involving Control Flow
+# ------------------------------------------------------------------------
+# # Python Code Challenge #2 involving Control Flow
+#
+# This file is part of the Codeacademy learn Python project
+#
+# Student: Andrea Aufdencamp
+# Modified: 2021/12/26
+# See Readme for further details
+------------------------------------------------------------------------
+
 def over_budget(budget, food_bill, eletricity_bill, internet_bill, rent):
   expenses = food_bill + eletricity_bill + internet_bill + rent
   if budget < expenses:
