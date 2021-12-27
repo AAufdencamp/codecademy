@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------
-# Python Code Challenge: Lists_23
+# Python Code Challenge: Lists_3
 #
 # This file is part of the Codeacademy learn Python project
 #
